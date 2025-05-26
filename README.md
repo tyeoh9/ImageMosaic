@@ -8,7 +8,7 @@ A Python project that uses OpenCV and simple mathematics to create image mosaics
 - Python 3.12.5
 
 ## Usage
-1. Install the required packages with pip install -r requirements.txt
+1. Install the required packages with `pip install -r requirements.txt`
 2. Run the cells in the Jupyter notebook in main.ipynb to create an image mosaic using your own images
 
 ## Useful resources
